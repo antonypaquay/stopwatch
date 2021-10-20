@@ -4,15 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "live-server --port=3000",
-    "test": "jest"
+    "start": "live-server --port=3000"
   },
   "author": "Antony Paquay",
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
-  },
-  "devDependencies": {
-    "jest": "^27.3.1"
   }
 }
